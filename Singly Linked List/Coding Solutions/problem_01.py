@@ -1,6 +1,7 @@
 import fhm_unittest as unittest
 import numpy as np
 from GeneralRun import createList, printLinkedList
+# Task 1: Building Blocks
 def check_similar(building_1, building_2):
   #TO DO
   temp1 = building_1
