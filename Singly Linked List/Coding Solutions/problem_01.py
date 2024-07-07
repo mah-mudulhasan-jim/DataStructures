@@ -27,8 +27,6 @@ def check_similar(building_1, building_2):
 
   return 'Similar'
 
-
-
 print('==============Test Case 1=============')
 building_1 = createList(np.array(['Red', 'Green', 'Yellow', 'Red', 'Blue', 'Green']))
 building_2 = createList(np.array(['Red', 'Green', 'Yellow', 'Red', 'Blue', 'Green']))
